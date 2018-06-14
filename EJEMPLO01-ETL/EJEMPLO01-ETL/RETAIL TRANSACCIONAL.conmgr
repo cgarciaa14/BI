@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="RETAIL TRANSACCIONAL"
+  DTS:DTSID="{18AE20F7-B51C-4637-A799-E871FC4AA0CA}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-UK0NCD5\CGARCIASQL;User ID=sa;Initial Catalog=RETAIL;Provider=SQLNCLI11.1;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA4sX8jyglIkmniDSBrij4yQAAAAACAAAAAAAQZgAAAAEAACAAAACp0FcHw+GxgkOs45fxeNZCGtiIvVSaWDlJbtX4aHGzVgAAAAAOgAAAAAIAACAAAACdAkmr24aSnbm4cHTwQUynQWd2Ieyitlfntd7zxVQV1YAAAADABSuVV8ev9kpcRB1F6pzcDRxIt95QqO6t7sxcyJIdK5umxIDO85X+CD7YAlqHRZuOpL2DnQaHnRH/rt+jMilraQud2/N8L+ssQIn3r6TQVnhtnnqvfqsHLRs2+IHzk5WZz2+7rqamgpP5N5ANgiRWbH785LCha3FMNnUYJRSPO0AAAADJU8sGjg9PvvOnuKpGJPZV48fkGOI1Ltct2jht1YnPuUahz3t3CCC376epraI01cfcPWzjgVnWcSLK32ffmhtc</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
